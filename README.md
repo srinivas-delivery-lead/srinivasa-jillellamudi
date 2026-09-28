@@ -23,6 +23,6 @@ Over 21+ years of IT experience, including 13+ years in Program & Delivery Manag
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile Link]
+- **LinkedIn:** https://www.linkedin.com/in/sreenivasa-kumar-j-71a88a16/
 - **Email:** sjillellamudi19@gmail.com
 - **Location:** Hyderabad, India
